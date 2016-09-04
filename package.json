@@ -1,0 +1,12 @@
+{
+  "name": "tree-methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/m00nst3r/tree-methods",
+  "author": "m00nst3r",
+  "license": "MIT"
+}
